@@ -8,13 +8,6 @@
 
 <h1 align="center">Thang Nguyen</h1>
 <p align="center"><i>Full-stack developer</i></p>
-
-<p align="center">
-  <a href="https://github.com/nguyenthangdev"><img src="https://img.shields.io/badge/-Portfolio-a78bfa?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/nguyenthangdev"><img src="https://img.shields.io/badge/-LinkedIn-7dd3fc?style=flat-square&logo=linkedin&logoColor=0a0a12" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=nguyenthangdev&label=Profile%20views&color=a78bfa&style=flat-square" alt="Profile views" />
-</p>
-
 <br />
 
 - 🌱 Currently working on **Full-Stack Development**
