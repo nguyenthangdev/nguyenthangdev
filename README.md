@@ -1,0 +1,64 @@
+<!-- Orbit 3D hero — looping render, tech stack orbiting the core in 3D -->
+<p align="center">
+  <img src="profile/orbit.gif" alt="Tech stack orbiting a glowing core in 3D" width="100%" />
+</p>
+<p align="center">
+  <a href="https://nguyenthangdev.github.io/orbit-3d/"><img src="https://img.shields.io/badge/🪐_View_interactive_3D-drag_to_orbit,_scroll_to_travel-a78bfa?style=for-the-badge&labelColor=010102" alt="View interactive 3D" /></a>
+</p>
+
+<h1 align="center">Thang Nguyen</h1>
+<p align="center"><i>Full-stack developer</i></p>
+
+<p align="center">
+  <a href="https://github.com/nguyenthangdev"><img src="https://img.shields.io/badge/-Portfolio-a78bfa?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/nguyenthangdev"><img src="https://img.shields.io/badge/-LinkedIn-7dd3fc?style=flat-square&logo=linkedin&logoColor=0a0a12" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=nguyenthangdev&label=Profile%20views&color=a78bfa&style=flat-square" alt="Profile views" />
+</p>
+
+<br />
+
+- 🌱 Currently working on**Full-Stack Development & AI/ML**
+- 👯 Looking to collaborate on **open-source projects**
+- 💬 Ask me about anything — always happy to help
+- ⚡ Fun fact: I love building things that make a difference
+
+<img src="profile/divider.svg" width="100%" height="4" alt="" />
+
+## Stack
+
+<p align="center">
+  <img src="profile/ticker.svg" alt="Tech stack" width="100%" />
+</p>
+
+<img src="profile/divider.svg" width="100%" height="4" alt="" />
+
+## Live stats
+
+<p align="center">
+  <img height="165em" alt="Thang Nguyen's GitHub stats" src="https://github-stats-extended-henna.vercel.app/api?username=nguyenthangdev&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&title_color=a78bfa&icon_color=7dd3fc&text_color=b9bcd9&bg_color=010102" />
+  <img height="165em" alt="Top languages" src="https://github-stats-extended-henna.vercel.app/api/top-langs/?username=nguyenthangdev&layout=compact&hide_border=true&title_color=a78bfa&icon_color=7dd3fc&text_color=b9bcd9&bg_color=010102" />
+</p>
+
+<p align="center">
+  <img src="profile/streak.svg" alt="Thang Nguyen's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenthangdev&custom_title=Commit%20Activity&bg_color=010102&color=7dd3fc&line=a78bfa&point=e9e9f5&area=true&area_color=a78bfa&hide_border=true" alt="Commit activity graph" width="100%" />
+</p>
+
+## Contribution snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nguyenthangdev/nguyenthangdev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation eating Thang Nguyen's GitHub contributions" width="100%" />
+</p>
+
+## Trophies
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nguyenthangdev/nguyenthangdev/main/profile/trophies.svg?v=6d02ead" alt="Thang Nguyen's GitHub trophies" width="100%" />
+</p>
+
+<img src="profile/divider.svg" width="100%" height="4" alt="" />
+
+<p align="center"><sub>⭐️ From <a href="https://github.com/nguyenthangdev">Thang Nguyen</a></sub></p>
